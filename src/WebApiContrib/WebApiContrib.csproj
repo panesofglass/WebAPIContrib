@@ -80,7 +80,6 @@
     <Compile Include="Internal\MediaTypeConstants.cs" />
     <Compile Include="Conneg\ContentNegotiation.cs" />
     <Compile Include="Content\CompressedContent.cs" />
-    <Compile Include="Content\SimpleObjectContent.cs" />
     <Compile Include="Data\ILoggingRepository.cs" />
     <Compile Include="Filters\EnableCorsAttribute.cs" />
     <Compile Include="Filters\ValidationAttribute.cs" />
@@ -116,7 +115,6 @@
     <Compile Include="Routing\OptionalRouteParameterAttribute.cs" />
     <Compile Include="Selectors\CorsActionSelector.cs" />
     <Compile Include="SelfHost\SslHttpSelfHostConfiguration.cs" />
-    <Compile Include="ReadAsSingleObjectPolicy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
