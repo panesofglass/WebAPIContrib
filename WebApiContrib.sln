@@ -36,6 +36,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiContrib.IoC.Structure
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiContrib.SelfHost", "src\WebApiContrib.SelfHost\WebApiContrib.SelfHost.csproj", "{6E81CA91-1228-4A48-8A33-D7960D97557D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiContrib.WebHost", "src\WebApiContrib.WebHost\WebApiContrib.WebHost.csproj", "{2544C950-013F-4287-B5F4-8D1D0AEC44E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +100,10 @@ Global
 		{6E81CA91-1228-4A48-8A33-D7960D97557D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E81CA91-1228-4A48-8A33-D7960D97557D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E81CA91-1228-4A48-8A33-D7960D97557D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2544C950-013F-4287-B5F4-8D1D0AEC44E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2544C950-013F-4287-B5F4-8D1D0AEC44E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2544C950-013F-4287-B5F4-8D1D0AEC44E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2544C950-013F-4287-B5F4-8D1D0AEC44E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
